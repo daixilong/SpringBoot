@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: xdl_cload
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.xdl
+Build-Jdk: 1.6.0_13
+Built-By: a
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://maven.apache.org
+
